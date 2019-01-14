@@ -1,6 +1,6 @@
 # Git Workshop
 
-This workshop is about learning how to use Git. In THIS repository, use Git Flow to make PRs from branches. Here we will experience the reason Git Flow is so necessary.
+This workshop is about learning how to use Git. In THIS repository, use git flow to make PRs from branches.
 
 > WINDOWS USERS: [Download GitBash](https://gitforwindows.org)
 
